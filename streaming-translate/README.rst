@@ -1,6 +1,6 @@
 
 
-Google Cloud Speech API Python Samples
+Streaming Audio Translation Samples
 ===============================================================================
 
 
