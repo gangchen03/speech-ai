@@ -1,0 +1,51 @@
+# Copyright 2022 Google LLC
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+
+#     https://www.apache.org/licenses/LICENSE-2.0
+
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+---
+steps:
+
+  # Install pipenv, install deps, compile pipelines
+  - name: python:3.7
+    entrypoint: /bin/sh
+    args:
+      - -c
+      - |
+        make setup && \
+        make compile-all-components && \
+        make compile-pipeline pipeline=training && \
+        make compile-pipeline pipeline=prediction
+    env:
+      - PIPELINE_TEMPLATE=${_PIPELINE_TEMPLATE}
+
+  # Copy pipelines and files to a new directory in GCS
+  # (via a new local directory)
+  # Directory name = git commit hash
+  - name: gcr.io/cloud-builders/gsutil
+    entrypoint: bash
+    args:
+      - -c
+      - |
+        mkdir -p ${TAG_NAME}/training/assets && \
+        mkdir -p ${TAG_NAME}/prediction/assets && \
+        cp pipelines/training.json ${TAG_NAME}/training/training.json && \
+        cp pipelines/prediction.json ${TAG_NAME}/prediction/prediction.json && \
+        cp -r pipelines/pipelines/${_PIPELINE_TEMPLATE}/training/assets ${TAG_NAME}/training/ && \
+        cp -r pipelines/pipelines/${_PIPELINE_TEMPLATE}/prediction/assets ${TAG_NAME}/prediction/ && \
+        for dest in ${_PIPELINE_PUBLISH_GCS_PATHS} ; do \
+          gsutil cp -r ${TAG_NAME} $$dest ; \
+        done
+
+options:
+  logging: CLOUD_LOGGING_ONLY
+
+timeout: 1800s  # 30mins
