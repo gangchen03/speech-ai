@@ -1,0 +1,5 @@
+google-cloud-speech
+google-cloud-storage
+pandas
+jiwer
+whisper-normalizer

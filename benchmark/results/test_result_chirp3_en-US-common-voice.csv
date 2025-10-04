@@ -1,0 +1,506 @@
+﻿audio_file_name,transcribed_text,normalized_text,ground_truth,wer_score
+common_voice_en_10341.wav,Spotted dick is a classic British pudding.,spotted dick is a classic british pudding ,Spotted dick is a classic British pudding,28.57142857142857
+common_voice_en_10342.wav,I see we don't go out anymore.,i see we don t go out anymore ,I say we dont go out any more,75.0
+common_voice_en_10362.wav,"At the same time, people were passing my shop all the time heading for Mecca.",at the same time people were passing my shop all the time heading for mecca ,At the same time people were passing my shop all the time heading for Mecca,13.333333333333334
+common_voice_en_10370.wav,"He had used the two stones only once, one morning when he was at the market place.",he had used the two stones only once one morning when he was at the market place ,He had used the two stones only once one morning when he was at a marketplace,25.0
+common_voice_en_10392.wav,"Man paddles red kayak, orange kayak in background.",man paddles red kayak orange kayak in background ,Man paddles red kayak orange kayak in background,12.5
+common_voice_en_10393.wav,A man and a girl stands in front of a large crowd.,a man and a girl stands in front of a large crowd ,A man and a girl stand in front of a large crowd,16.666666666666664
+common_voice_en_1043.wav,The other son was a poet and delighted all Rome with his beautiful verses.,the other son was a poet and delighted all rome with his beautiful verses ,The other son was a poet and delighted all of Rome with his beautiful verses,20.0
+common_voice_en_10435.wav,I'll buy some wine.,i ll buy some wine ,How about some wine,75.0
+common_voice_en_10438.wav,The English man was disappointed.,the english man was disappointed ,The Englishman was disappointed,75.0
+common_voice_en_1047.wav,"Having heard that, the boy became even more interested in",having heard that the boy became even more interested in,Having heard that the boy became even more interested in alchemy,18.181818181818183
+common_voice_en_10563.wav,a deputy representative,a deputy representative,A deputy representative,33.33333333333333
+common_voice_en_10564.wav,Did you see any ghosts?,did you see any ghosts ,Did you see any ghosts,20.0
+common_voice_en_10614.wav,a circle touching a line with,a circle touching a line with,A surfer catches a large wave,83.33333333333334
+common_voice_en_10692.wav,The cake is a lie.,the cake is a lie ,The cake is a lie,20.0
+common_voice_en_1075.wav,A scientist in a lab coat is using a microscope.,a scientist in a lab coat is using a microscope ,A scientist in a lab coat is using a microscope,10.0
+common_voice_en_10847.wav,"Please, ma'am, consider the mafia responsible for the massacre.",please ma am consider the mafia responsible for the massacre ,Policemen consider the mafia responsible for the massacre,37.5
+common_voice_en_10850.wav,Hold your nose to keep the smell from disabling your motor functions.,hold your nose to keep the smell from disabling your motor functions ,Hold your nose to keep the smell from disabling your motor functions,8.333333333333332
+common_voice_en_10890.wav,There were mountains in the distance.,there were mountains in the distance ,There were mountains in the distance,16.666666666666664
+common_voice_en_10891.wav,He remembered what the old man had said about offering something you didn't even have yet.,he remembered what the old man had said about offering something you didn t even have yet ,He remembered what the old man had said about offering something you didnt even have yet,18.75
+common_voice_en_1147.wav,She ate an old pear and started suffocating.,she ate an old pear and started suffocating ,She ate an old pear and started suffocating,12.5
+common_voice_en_11483.wav,Andersen stood up with a speed in his hand.,andersen stood up with a speed in his hand ,Henderson stood up with a spade in his hand,22.22222222222222
+common_voice_en_11485.wav,"From then on, the boy understood his heart.",from then on the boy understood his heart ,From then on the boy understood his heart,12.5
+common_voice_en_11487.wav,The boy was surprised at his box.,the boy was surprised at his box ,The boy was surprised at his thoughts,28.57142857142857
+common_voice_en_11604.wav,"It doesn't matter, he said to his sheep.",it doesn t matter he said to his sheep ,It doesnt matter he said to his sheep,37.5
+common_voice_en_1164.wav,"You are always being very kind and friendly to everyone, even strangers.",you are always being very kind and friendly to everyone even strangers ,She has always been very kind and friendly to everyone even strangers,25.0
+common_voice_en_11675.wav,He didn't want to cry with the other people there.,he didn t want to cry with the other people there ,He didnt want to cry with the other people there,30.0
+common_voice_en_12086.wav,The genius were the spirit of good and evil.,the genius were the spirit of good and evil ,The genies were the spirits of good and evil,33.33333333333333
+common_voice_en_12265.wav,A surfer is riding a wave that is beginning to chop.,a surfer is riding a wave that is beginning to chop ,A surfer is riding a wave that is beginning to tube,18.181818181818183
+common_voice_en_12266.wav,Will you get out and let me handle this?,will you get out and let me handle this ,Will you get out and let me handle this,11.11111111111111
+common_voice_en_12274.wav,gentleman of the press,gentleman of the press,Gentlemen of the Press,50.0
+common_voice_en_12275.wav,All the birds began to sing at the first light of dawn.,all the birds began to sing at the first light of dawn ,All the birds began to sing at the first light of dawn,8.333333333333332
+common_voice_en_12302.wav,You don't rub the baby dry.,you don t rub the baby dry ,You dont rub the baby dry,50.0
+common_voice_en_12677.wav,Man in red T-shirt and baseball cap viewed from above. He is has a pile of posture.,man in red t shirt and baseball cap viewed from above he is has a pile of posture ,Man in red tshirt and baseball cap viewed from above he is has a pile of posters,23.52941176470588
+common_voice_en_12699.wav,I would if I thought I'd hear anything worth listening to.,i would if i thought i d hear anything worth listening to ,I would if I thought Id hear anything worth listening to,36.36363636363637
+common_voice_en_12803.wav,A woman lays on a sofa in a yard.,a woman lays on a sofa in a yard ,A woman lays on a sofa in a yard,11.11111111111111
+common_voice_en_12804.wav,a local band performing at a local venue,a local band performing at a local venue,A local band performing at a local venue,12.5
+common_voice_en_12817.wav,"My friend, all the all the other shit, he needed to",my friend all the all the other shit he needed to,My friend bought all the other sheep immediately,87.5
+common_voice_en_12818.wav,"I'm an adventurer looking for treasure, he said to himself.",i m an adventurer looking for treasure he said to himself ,Im an adventurer looking for treasure he said to himself,20.0
+common_voice_en_12944.wav,Please don't appeal to my sentimental side.,please don t appeal to my sentimental side ,Please dont appeal to my Sentimental side,57.14285714285714
+common_voice_en_12945.wav,All the lawyers in the world aren't going to help you.,all the lawyers in the world aren t going to help you ,All the lawyers in the world arent going to help you,27.27272727272727
+common_voice_en_12946.wav,Please take a business card.,please take a business card ,Please take a business card,20.0
+common_voice_en_13108.wav,Does a man's heart always help him? The boy asked the alchemist.,does a man s heart always help him the boy asked the alchemist ,Does a mans heart always help him the boy asked the alchemist,25.0
+common_voice_en_13188.wav,You are a big help.,you are a big help ,Youre a big help,50.0
+common_voice_en_13193.wav,Even been at it for over 2 years and I'm still discovering new ideas.,even been at it for over 2 years and i m still discovering new ideas ,Ive been at it for over two years and Im still discovering new ideas,28.57142857142857
+common_voice_en_13279.wav,I'll kill both of them.,i ll kill both of them ,Ill kill both of them,40.0
+common_voice_en_13394.wav,We have that all figured out.,we have that all figured out ,We have that all figured out,16.666666666666664
+common_voice_en_13500.wav,The first day passed.,the first day passed ,The first day passed,25.0
+common_voice_en_1352.wav,Learn to recognize women and follow them. The old king had said.,learn to recognize women and follow them the old king had said ,Learn to recognize omens and follow them the old king had said,16.666666666666664
+common_voice_en_13572.wav,Mr. Lee can't be bothered now.,mr lee can t be bothered now ,Mr Lee cant be bothered now,66.66666666666666
+common_voice_en_13782.wav,"And if you improve on the present, what comes later will also be better.",and if you improve on the present what comes later will also be better ,And if you improve on the present what comes later will also be better,7.142857142857142
+common_voice_en_13817.wav,"I want to book an oyster bar for one in the Navy Yard, city.",i want to book an oyster bar for one in the navy yard city ,I want to book an oyster bar for one in the Navy Yard City,28.57142857142857
+common_voice_en_13821.wav,The train pulled into the station.,the train pulled into the station ,The train pulled into the station,16.666666666666664
+common_voice_en_13822.wav,50 bucks ain't going to run me.,50 bucks ain t going to run me ,Fifty bucks aint going to ruin me,57.14285714285714
+common_voice_en_1384.wav,How about once more around the park?,how about once more around the park ,How about once more around the park,14.285714285714285
+common_voice_en_13899.wav,Citizens in areas affected by the typhoon are advised to leave their homes immediately.,citizens in areas affected by the typhoon are advised to leave their homes immediately ,Citizens in areas affected by the typhoon are advised to leave their homes immediately,7.142857142857142
+common_voice_en_13900.wav,"Television can make you dumb, but it can also be good education.",television can make you dumb but it can also be good education ,Television can make you dumb but it can also be good education,8.333333333333332
+common_voice_en_13901.wav,We don't have the budget to produce it in studio quality.,we don t have the budget to produce it in studio quality ,We dont have the budget to produce it in studio quality,27.27272727272727
+common_voice_en_13961.wav,He regretted having spoken to the camel driver of what he has seen in the desert.,he regretted having spoken to the camel driver of what he has seen in the desert ,He regretted having spoken to the camel driver about what he had seen in the desert,18.75
+common_voice_en_14493.wav,Even when I don't want to do a struggle.,even when i don t want to do a struggle ,Even when all you want to do is travel,66.66666666666666
+common_voice_en_14494.wav,I have the money I need to buy my sheep.,i have the money i need to buy my sheep ,I have the money I need to buy my sheep,20.0
+common_voice_en_15304.wav,One man and a woman sitting on a table in a restaurant eating dinner.,one man and a woman sitting on a table in a restaurant eating dinner ,one man and a woman sitting on a table in a restaurant eating dinner,0.0
+common_voice_en_15305.wav,three dogs running on tire tracks in snow,three dogs running on tire tracks in snow,Three dogs running on tire tracks in snow,12.5
+common_voice_en_15748.wav,I still can't understand it though.,i still can t understand it though ,I still cant understand it though,50.0
+common_voice_en_16187.wav,"All I saw was an army, said the boy.",all i saw was an army said the boy ,All I saw was an army said the boy,22.22222222222222
+common_voice_en_16188.wav,You lived your life in a loving way and died with dignity.,you lived your life in a loving way and died with dignity ,You lived your life in a loving way and died with dignity,8.333333333333332
+common_voice_en_16189.wav,I have been waiting for you here at this office for a long time.,i have been waiting for you here at this office for a long time ,I have been waiting for you here at this oasis for a long time,14.285714285714285
+common_voice_en_16327.wav,He took the first half and handed it to the monk.,he took the first half and handed it to the monk ,He took the fourth part and handed it to the monk,27.27272727272727
+common_voice_en_16353.wav,Two girls are sitting on the steps and one girl is laughing.,two girls are sitting on the steps and one girl is laughing ,Two girls are sitting on the steps and one girl is laughing,8.333333333333332
+common_voice_en_16355.wav,Two little boys are at a table with a box of LEGOs.,two little boys are at a table with a box of legos ,Two little boys are at a table with a box of Legos,16.666666666666664
+common_voice_en_16441.wav,Maybe no one here knows what an alchemist is.,maybe no one here knows what an alchemist is ,Maybe no one here knows what an alchemist is,11.11111111111111
+common_voice_en_16466.wav,I finally went by myself and came back this morning feeling happy and refreshed.,i finally went by myself and came back this morning feeling happy and refreshed ,I finally went by myself and came back this morning feeling happy and refreshed,7.142857142857142
+common_voice_en_16812.wav,"But don't worry, the alchemist continued.",but don t worry the alchemist continued ,But dont worry the alchemist continued,50.0
+common_voice_en_16814.wav,The old man knew how to read and had already read the book.,the old man knew how to read and had already read the book ,The old man knew how to read and had already read the book,7.6923076923076925
+common_voice_en_16907.wav,The man was speaking the language of alchemy.,the man was speaking the language of alchemy ,The man was speaking the language of alchemy,12.5
+common_voice_en_16953.wav,How do you suppose can go to that gun?,how do you suppose can go to that gun ,How do you suppose Ken got that gun,50.0
+common_voice_en_17051.wav,So the boy was disappointed. He decided that he would never again believe in dreams.,so the boy was disappointed he decided that he would never again believe in dreams ,So the boy was disappointed he decided that he would never again believe in dreams,6.666666666666667
+common_voice_en_17061.wav,"Did you learn anything? The Englishman asked, eager to hear what it might be.",did you learn anything the englishman asked eager to hear what it might be ,Did you learn anything the Englishman asked eager to hear what it might be,14.285714285714285
+common_voice_en_17293.wav,A rock climber clings to a steep overhanging rock high above a ledge.,a rock climber clings to a steep overhanging rock high above a ledge ,A rock climber clings to a steep overhanging rock high above a mesa,15.384615384615385
+common_voice_en_1757.wav,He was sure the girl would never understand.,he was sure the girl would never understand ,He was sure the girl would never understand,12.5
+common_voice_en_1762.wav,"In alchemy, it's called the soul of the world.",in alchemy it s called the soul of the world ,In alchemy its called the Soul of the World,55.55555555555556
+common_voice_en_1763.wav,It was difficult not to think about what he had left.,it was difficult not to think about what he had left ,It was difficult not to think about what he had left behind,16.666666666666664
+common_voice_en_18214.wav,Everything you need to know you have learned through your journey.,everything you need to know you have learned through your journey ,Everything you need to know you have learned through your journey,9.090909090909092
+common_voice_en_18215.wav,The jacket had a purpose and so did the boy.,the jacket had a purpose and so did the boy ,The jacket had a purpose and so did the boy,10.0
+common_voice_en_18461.wav,A woman plays guitar in the street.,a woman plays guitar in the street ,a woman plays guitar in the street,0.0
+common_voice_en_18462.wav,A chef is pouring sauce from a pot into a bowl.,a chef is pouring sauce from a pot into a bowl ,A chef is pouring sauce from a pot into a bowl,9.090909090909092
+common_voice_en_18474.wav,They are not more. What must the English man answer?,they are not more what must the english man answer ,Theyre not worth much the Englishman answered,114.28571428571428
+common_voice_en_18478.wav,But you don't know about love.,but you don t know about love ,But you dont know about love,50.0
+common_voice_en_18549.wav,But now the sound inside it stopped.,but now the sound inside it stopped ,But now the sounds inside had stopped,42.857142857142854
+common_voice_en_18556.wav,"He said, ""Look at the sky for a long time.""",he said look at the sky for a long time ,He sat looking at the sky for a long time,30.0
+common_voice_en_18683.wav,"What's the matter with you, too?",what s the matter with you too ,Whats the matter with you two,50.0
+common_voice_en_18729.wav,"""You are in luck, you two,"" the fat Arab said.", you are in luck you two the fat arab said ,Youre in luck you two the fat Arab said,33.33333333333333
+common_voice_en_19226.wav,Facebook was a big impostor.,facebook was a big impostor ,The Google search bar is for searching not for typing URLs,100.0
+common_voice_en_19344.wav,The old lady founded this organization 30 years ago.,the old lady founded this organization 30 years ago ,The old lady founded this organization thirty years ago,22.22222222222222
+common_voice_en_19345.wav,We do not always gain by changing.,we do not always gain by changing ,We do not always gain by changing,14.285714285714285
+common_voice_en_19609.wav,These are the spies that went into the room.,these are the spies that went into the room ,These are the spies said one of the men,55.55555555555556
+common_voice_en_19819.wav,The next day the boy returned to the well hoping to see the girl.,the next day the boy returned to the well hoping to see the girl ,The next day the boy returned to the well hoping to see the girl,7.142857142857142
+common_voice_en_19835.wav,It could sell the stones and buy a return ticket.,it could sell the stones and buy a return ticket ,He could sell the stones and buy a return ticket,10.0
+common_voice_en_20124.wav,"I think they are going to last for a long time, he said to the mom.",i think they are going to last for a long time he said to the mom ,I think theyre going to last for a long time he said to the monk,26.666666666666668
+common_voice_en_20289.wav,It was the first time either had touched the other.,it was the first time either had touched the other ,It was the first time either had touched the other,10.0
+common_voice_en_20290.wav,"As they sat down at the only table in the place, the crystal merchant laughed. Now what?",as they sat down at the only table in the place the crystal merchant laughed now what ,As they sat down at the only table in the place the crystal merchant laughed,20.0
+common_voice_en_20768.wav,She ought to be here any minute.,she ought to be here any minute ,She ought to be here any minute,14.285714285714285
+common_voice_en_20770.wav,Circle Varenna the closest cinema.,circle varenna the closest cinema ,Circle of Iron in the closet cinema,71.42857142857143
+common_voice_en_20938.wav,The boy noticed that the owner of the bar stood nearby listening attentively to their conversation.,the boy noticed that the owner of the bar stood nearby listening attentively to their conversation ,The boy noticed that the owner of the bar stood nearby listening attentively to their conversation,6.25
+common_voice_en_20942.wav,"They didn't have the printing present those days, the boy argued.",they didn t have the printing present those days the boy argued ,They didnt have the printing press in those days the boy argued,41.66666666666667
+common_voice_en_20944.wav,I want you to be my wife.,i want you to be my wife ,I want you to be my wife,14.285714285714285
+common_voice_en_21181.wav,The shower is in there.,the shower is in there ,The showers in there,75.0
+common_voice_en_21183.wav,Ellie won first prize in the spelling competition.,ellie won first prize in the spelling competition ,Ellie won first prize in the spelling competition,12.5
+common_voice_en_21337.wav,Is my own true love playing?,is my own true love playing ,Is My Own True Love playing,83.33333333333334
+common_voice_en_21339.wav,Have a good trip.,have a good trip ,Have a good trip,25.0
+common_voice_en_21482.wav,He took back his book and packed it away again in their backs.,he took back his book and packed it away again in their backs ,He took back his books and packed them away again in their bags,30.76923076923077
+common_voice_en_21491.wav,You will weaken when you see that little Jezebel.,you will weaken when you see that little jezebel ,Youll weaken when you see that little Jezebel,37.5
+common_voice_en_21549.wav,I bet is a warrant for my arrest.,i bet is a warrant for my arrest ,Ill bet its a warrant for my arrest,25.0
+common_voice_en_21550.wav,We cannot forget that first.,we cannot forget that first ,We cannot forget that farce,40.0
+common_voice_en_21552.wav,I never saw it before.,i never saw it before ,I never saw it before,20.0
+common_voice_en_21579.wav,"The dunes are changed by the wind, but the desert never changes.",the dunes are changed by the wind but the desert never changes ,The dunes are changed by the wind but the desert never changes,8.333333333333332
+common_voice_en_2164.wav,The dead soldiers were replaced by others and life went on.,the dead soldiers were replaced by others and life went on ,The dead soldiers were replaced by others and life went on,9.090909090909092
+common_voice_en_21933.wav,The city was still sleeping.,the city was still sleeping ,The city was still sleeping,20.0
+common_voice_en_21936.wav,They are called as private and public key.,they are called as private and public key ,They are called private and public key,28.57142857142857
+common_voice_en_22327.wav,"And you've told me nothing along the way, said the boy.",and you ve told me nothing along the way said the boy ,And youve told me nothing along the way said the boy,27.27272727272727
+common_voice_en_22646.wav,I saw that you were gone.,i saw that you were gone ,I thought you were gone,60.0
+common_voice_en_22963.wav,She's a wonderful person.,she s a wonderful person ,Shes a wonderful person,50.0
+common_voice_en_23506.wav,We went to the zoo to see the zebras.,we went to the zoo to see the zebras ,We went to the zoo to see the zebras,11.11111111111111
+common_voice_en_23508.wav,Somebody's driving this cab.,somebody s driving this cab ,Somebodys driving this cab,50.0
+common_voice_en_23533.wav,Love requires us to stay with the people we love.,love requires us to stay with the people we love ,Love required them to stay with the people they loved,50.0
+common_voice_en_24090.wav,"He had not a cent in his pocket, but he had faith.",he had not a cent in his pocket but he had faith ,He had not a cent in his pocket but he had faith,8.333333333333332
+common_voice_en_24151.wav,The angel touched the man's shoulder and they were both projected far into the future.,the angel touched the man s shoulder and they were both projected far into the future ,The angel touched the mans shoulder and they were both projected far into the future,20.0
+common_voice_en_2421.wav,Programming requires brains.,programming requires brains ,Programming requires brains,33.33333333333333
+common_voice_en_24544.wav,Most of them were staring quietly at the big table.,most of them were staring quietly at the big table ,Most of them were staring quietly at the big table,10.0
+common_voice_en_24663.wav,There's one that says everything that happens once can never happen again.,there s one that says everything that happens once can never happen again ,Theres one that says Everything that happens once can never happen again,25.0
+common_voice_en_250.wav,It's hard to compare something this scary and mundane with something I'm excited about.,it s hard to compare something this scary and mundane with something i m excited about ,Its hard to compare something necessary and mundane with something Im excited about,46.15384615384615
+common_voice_en_25116.wav,Who says I'm looking for a job?,who says i m looking for a job ,Who says Im looking for a job,42.857142857142854
+common_voice_en_25260.wav,It's because you were not born.,it s because you were not born ,Its because you were not born,33.33333333333333
+common_voice_en_25261.wav,We have still got two bucks left.,we have still got two bucks left ,Weve still got two bucks left,33.33333333333333
+common_voice_en_25292.wav,Mrs. Sara doesn't either.,mrs sara doesn t either ,Mrs Sarah doesnt either,100.0
+common_voice_en_25295.wav,He decided to spend the night there.,he decided to spend the night there ,He decided to spend the night there,14.285714285714285
+common_voice_en_25299.wav,He reached over and picked up a shell from the ground.,he reached over and picked up a shell from the ground ,He reached over and picked up a shell from the ground,9.090909090909092
+common_voice_en_25300.wav,"If he abandons the pursuit, it's because it wasn't true love.",if he abandons the pursuit it s because it wasn t true love ,If he abandons that pursuit its because it wasnt truelove,80.0
+common_voice_en_25345.wav,Only get me back to my husband and kick.,only get me back to my husband and kick ,Only get me back to my husband and kids,22.22222222222222
+common_voice_en_25346.wav,How did it start?,how did it start ,How did it start,25.0
+common_voice_en_26357.wav,They meet each other via online video messaging.,they meet each other via online video messaging ,They met each other via online video messaging,25.0
+common_voice_en_26358.wav,Make the best of a bad bargain.,make the best of a bad bargain ,Make the best of a bad bargain,14.285714285714285
+common_voice_en_26364.wav,Draw up the night the boy do at the place he had chosen but found nothing.,draw up the night the boy do at the place he had chosen but found nothing ,Throughout the night the boy dug at the place he had chosen but found nothing,20.0
+common_voice_en_26827.wav,It's extremely suspicious that there's no information about brains that didn't come from a brain.,it s extremely suspicious that there s no information about brains that didn t come from a brain ,Its extremely suspicious that theres no information about brains that didnt come from a brain,40.0
+common_voice_en_27178.wav,What is love? It is a task.,what is love it is a task ,What is love the desert asked,83.33333333333334
+common_voice_en_27229.wav,"The alchemist is 200 years old, the Englishman had told him.",the alchemist is 200 years old the englishman had told him ,The alchemist is two hundred years old the Englishman had told him,33.33333333333333
+common_voice_en_27231.wav,Will have something to drink and eat these hawks.,will have something to drink and eat these hawks ,Well have something to drink and eat these hawks,11.11111111111111
+common_voice_en_2737.wav,And I would tell you how to find the hidden treasure.,and i would tell you how to find the hidden treasure ,And I will tell you how to find the hidden treasure,27.27272727272727
+common_voice_en_27484.wav,What is it you're looking for? asked the old merchant.,what is it you re looking for asked the old merchant ,What is it youre looking for asked the old merchant,30.0
+common_voice_en_27485.wav,"""You can't go any farther,"" one of them said.", you can t go any farther one of them said ,You cant go any farther one of them said,33.33333333333333
+common_voice_en_2924.wav,He bought some tin foil to build a hat.,he bought some tin foil to build a hat ,He bought some tinfoil to build a hat,37.5
+common_voice_en_2925.wav,I'm in a good mood right now.,i m in a good mood right now ,I am in a good mood right now,25.0
+common_voice_en_31520.wav,household words,household words,Household words,50.0
+common_voice_en_31521.wav,But she'll be there.,but she ll be there ,But shell be there,75.0
+common_voice_en_31571.wav,You have told me about your dreams about the old king and your dresser.,you have told me about your dreams about the old king and your dresser ,You have told me about your dreams about the old king and your treasure,14.285714285714285
+common_voice_en_31573.wav,This convention is a natural.,this convention is a natural ,This convention is a natural,20.0
+common_voice_en_31626.wav,An elderly woman serving bread to a man on the woman dressed in blue T-shirt and light brown pants.,an elderly woman serving bread to a man on the woman dressed in blue t shirt and light brown pants ,An elderly woman serving bread to a man and a woman dressed in blue tshirts and light brown pants,26.31578947368421
+common_voice_en_31627.wav,dogs racing around the track,dogs racing around the track,Dogs racing around a track,40.0
+common_voice_en_31681.wav,"Curse the moment I met that old man, he thought.",curse the moment i met that old man he thought ,Curse the moment I met that old man he thought,20.0
+common_voice_en_31749.wav,"With the girl with the raven hair, his days would never be the same again.",with the girl with the raven hair his days would never be the same again ,With the girl with the raven hair his days would never be the same again,6.666666666666667
+common_voice_en_32004.wav,They become the soul of the world.,they become the soul of the world ,they become the Soul o f the World,50.0
+common_voice_en_32005.wav,He left without saying goodbye to the crystal merchant.,he left without saying goodbye to the crystal merchant ,He left without saying goodbye to the crystal merchant,11.11111111111111
+common_voice_en_32847.wav,We ate spicy rice with chicken legs and white mushrooms.,we ate spicy rice with chicken legs and white mushrooms ,We ate spicy rice with chicken legs and white mushrooms,10.0
+common_voice_en_32848.wav,You didn't set the indicator before leaving the roundabout.,you didn t set the indicator before leaving the roundabout ,You didnt set the indicator before leaving the roundabout,33.33333333333333
+common_voice_en_32883.wav,I always said so.,i always said so ,I always said so,25.0
+common_voice_en_32886.wav,We need grain to keep our mules healthy.,we need grain to keep our mules healthy ,We need grain to keep our mules healthy,12.5
+common_voice_en_32887.wav,The girl at the booth sold 50 pounds.,the girl at the booth sold 50 pounds ,The girl at the booth sold fifty bonds,37.5
+common_voice_en_32932.wav,A part of me is also trying to come to terms with the fact that I won't be able to travel as much anymore.,a part of me is also trying to come to terms with the fact that i won t be able to travel as much anymore ,A part of me is also trying to come to terms with the fact that I wont be able to travel as much anymore,16.666666666666664
+common_voice_en_32935.wav,The man looked at the angel in surprise.,the man looked at the angel in surprise ,The man looked at the angel in surprise,12.5
+common_voice_en_32944.wav,Never put off till tomorrow what you can do today.,never put off till tomorrow what you can do today ,Never put off til tomorrow what you can do today,20.0
+common_voice_en_32961.wav,What kind of blow should one deliver next in order to remain alive?,what kind of blow should one deliver next in order to remain alive ,What kind of blow should one deliver next in order to remain alive,7.6923076923076925
+common_voice_en_33044.wav,How can you have any happiness after that?,how can you have any happiness after that ,How can you have any happiness after that,12.5
+common_voice_en_33176.wav,A man riding a bike through the forest.,a man riding a bike through the forest ,a man riding a bike through the forest,0.0
+common_voice_en_33178.wav,A woman resting her head on a curved pillow.,a woman resting her head on a curved pillow ,Woman resting her head on a curved pillow,25.0
+common_voice_en_33803.wav,There was a pause.,there was a pause ,There was a pause,25.0
+common_voice_en_33826.wav,back into the excavation,back into the excavation,back into the excavation,0.0
+common_voice_en_3388.wav,That's what I'm going to do.,that s what i m going to do ,Thats what Im going to do,66.66666666666666
+common_voice_en_34176.wav,Better get a pencil out and write it down.,better get a pencil out and write it down ,Better get a pencil out and write it down,11.11111111111111
+common_voice_en_34186.wav,In those days very few of the people had any idea about astronomy.,in those days very few of the people had any idea about astronomy ,In those days very few of the people had any idea about astronomy,7.6923076923076925
+common_voice_en_3427.wav,"This is the first phase of the job, he said.",this is the first phase of the job he said ,This is the first phase of the job he said,10.0
+common_voice_en_34291.wav,I don't understand why you use the negative gradient.,i don t understand why you use the negative gradient ,I dont understand why you use the negative gradient,33.33333333333333
+common_voice_en_34292.wav,Why did we have to have all these kids?,why did we have to have all these kids ,Why did we have to have all these kids,11.11111111111111
+common_voice_en_34400.wav,I'll be back in a minute.,i ll be back in a minute ,Ill be back in a minute,33.33333333333333
+common_voice_en_34401.wav,I admit that I'm an alcoholic.,i admit that i m an alcoholic ,I admit that Im an alcoholic,50.0
+common_voice_en_34404.wav,And he gave the boy his blessing.,and he gave the boy his blessing ,And he gave the boy his blessing,14.285714285714285
+common_voice_en_34501.wav,Cry havoc and let slip the dogs of war.,cry havoc and let slip the dogs of war ,Cry havoc and let slip the dogs of war,11.11111111111111
+common_voice_en_34533.wav,She knows everything.,she knows everything ,She knows everything,33.33333333333333
+common_voice_en_34535.wav,I had a really good time at his party.,i had a really good time at his party ,I had a really good time at his party,11.11111111111111
+common_voice_en_34536.wav,This jelly doesn't taste of limes.,this jelly doesn t taste of limes ,This jelly doesnt taste of limes,50.0
+common_voice_en_34693.wav,She joined up to,she joined up to,She joined up too,50.0
+common_voice_en_34695.wav,The caravan moved toward the east.,the caravan moved toward the east ,The caravan moved toward the east,16.666666666666664
+common_voice_en_34696.wav,They were people of the desert and clamored to hear his stories about the great cities.,they were people of the desert and clamored to hear his stories about the great cities ,They were people of the desert and clamored to hear his stories about the great cities,6.25
+common_voice_en_34707.wav,Then what did you do?,then what did you do ,Then what did you do,20.0
+common_voice_en_34708.wav,What on earth are you doing?,what on earth are you doing ,What on earth are you doing,16.666666666666664
+common_voice_en_34718.wav,"a little brown dog on the end of a leash, whose owner is wearing a blue skirt and black flats",a little brown dog on the end of a leash whose owner is wearing a blue skirt and black flats,A little brown dog on the end of a leash who s owner is wearing a blue skirt and black flats,14.285714285714285
+common_voice_en_34720.wav,A child wearing red striped pajamas is smiling.,a child wearing red striped pajamas is smiling ,A child wearing red striped pajamas is smiling,12.5
+common_voice_en_34721.wav,At this hour of the morning?,at this hour of the morning ,At this hour of the morning,16.666666666666664
+common_voice_en_34723.wav,I've got nobody else to leave it to.,i ve got nobody else to leave it to ,Ive got nobody else to leave it to,25.0
+common_voice_en_34793.wav,The third bad guy was in trouble.,the third bad guy was in trouble ,I told you Baldwin was in trouble,57.14285714285714
+common_voice_en_3487.wav,Who is your favorite author?,who is your favorite author ,Who is your favourite author,40.0
+common_voice_en_34956.wav,I want you to take a good look at that face.,i want you to take a good look at that face ,I want you to take a good look at that face,9.090909090909092
+common_voice_en_34957.wav,There is nothing wrong with the books.,there is nothing wrong with the books ,Theres nothing wrong with the books,33.33333333333333
+common_voice_en_35117.wav,Do you mean the speech you are writing?,do you mean the speech you are writing ,Do you mean the speech youre writing,42.857142857142854
+common_voice_en_35280.wav,When is for One Night playing at Loews Cineplex Entertainment?,when is for one night playing at loews cineplex entertainment ,When is For One Night playing at Loews Cineplex Entertainment,70.0
+common_voice_en_35315.wav,Go out and find her.,go out and find her ,Go out and find her,20.0
+common_voice_en_35316.wav,Didn't you tell her?,didn t you tell her ,Didnt you tell her,50.0
+common_voice_en_35385.wav,"You must not let up even after having comes far, you continue.",you must not let up even after having comes far you continue ,You must not let up even after having come so far he continued,38.46153846153847
+common_voice_en_35683.wav,The boy observed in silence the progress of the animals and people across the desert.,the boy observed in silence the progress of the animals and people across the desert ,The boy observed in silence the progress of the animals and people across the desert,6.666666666666667
+common_voice_en_36533.wav,This speech will continue.,this speech will continue ,The speech will continue,25.0
+common_voice_en_36534.wav,"You don't happen to have 8,000 bucks on you?",you don t happen to have 8 000 bucks on you ,You dont happen to have eight thousand bucks on you,50.0
+common_voice_en_36683.wav,A man cleaning an object in the fountain.,a man cleaning an object in the fountain ,A man cleaning an object in the fountain,12.5
+common_voice_en_36684.wav,a stock motion picture of a man firing a handgun in a dark area,a stock motion picture of a man firing a handgun in a dark area,A stop motion picture of a man firing a handgun in a dark area,14.285714285714285
+common_voice_en_36778.wav,A young teenager is shaving while an older on looker watches from the doorway.,a young teenager is shaving while an older on looker watches from the doorway ,A young teenager is shaving while an older onlooker watches from the doorway,23.076923076923077
+common_voice_en_36780.wav,A girl sleeps on the bench near a window.,a girl sleeps on the bench near a window ,A girl sleeps on a bench near a window,22.22222222222222
+common_voice_en_36781.wav,The references were thick and impenetrable.,the references were thick and impenetrable ,The references were thick and impenetrable,16.666666666666664
+common_voice_en_36782.wav,When did you arrive in town?,when did you arrive in town ,When did you arrive in town,16.666666666666664
+common_voice_en_36800.wav,A white bird spreads its wings and jumps into the water feet first.,a white bird spreads its wings and jumps into the water feet first ,A white bird spreads its wings and jumps into the water feet first,7.6923076923076925
+common_voice_en_36818.wav,Fresh fish in restaurant is usually expensive.,fresh fish in restaurant is usually expensive ,Fresh fish in restaurants is usually expensive,28.57142857142857
+common_voice_en_37013.wav,"Whatever the thing observed, one could find a connection with his experience of the moment.",whatever the thing observed one could find a connection with his experience of the moment ,whatever the thing observed one could find a connection with his experience of the moment,0.0
+common_voice_en_37014.wav,"Well, then we've got a problem.",well then we ve got a problem ,Well then weve got a problem,50.0
+common_voice_en_37099.wav,It couldn't have been wrong.,it couldn t have been wrong ,He couldnt have been wrong,60.0
+common_voice_en_37174.wav,The triple shift ends will see that and you will be dismissed from your position as counselor.,the triple shift ends will see that and you will be dismissed from your position as counselor ,The tribal chieftains will see that and youll be dismissed from your position as counselor,40.0
+common_voice_en_37177.wav,I can't stand the sight of blood.,i can t stand the sight of blood ,I cant stand the sight of blood,42.857142857142854
+common_voice_en_37178.wav,Her hair flowed down her back.,her hair flowed down her back ,Her hair flowed down her back,16.666666666666664
+common_voice_en_37185.wav,The boy was getting irritated.,the boy was getting irritated ,The boy was getting irritated,20.0
+common_voice_en_37212.wav,I'd like to build a display case for the crystal. The boy said to the merchant.,i d like to build a display case for the crystal the boy said to the merchant ,Id like to build a display case for the crystal the boy said to the merchant,12.5
+common_voice_en_37214.wav,He had surprised himself with the thought.,he had surprised himself with the thought ,He had surprised himself with the thought,14.285714285714285
+common_voice_en_37277.wav,And ask for a glass of wine for me.,and ask for a glass of wine for me ,And ask for a glass of wine for me,11.11111111111111
+common_voice_en_3729.wav,Two people looking out over the ocean at the sunset with purple sky and waters.,two people looking out over the ocean at the sunset with purple sky and waters ,Two people looking out over the ocean at a sunset with purple sky and waters,13.333333333333334
+common_voice_en_3731.wav,Two small boys are getting into a greyish colored van.,two small boys are getting into a greyish colored van ,Two small boys are getting into a grayish colored van,20.0
+common_voice_en_37319.wav,What were you when you came here 5 years ago?,what were you when you came here 5 years ago ,What were you when you came here five years ago,20.0
+common_voice_en_37320.wav,We must leave now.,we must leave now ,We must leave now,25.0
+common_voice_en_37340.wav,Lovers kiss before they part.,lovers kiss before they part ,Lovers kiss before they part,20.0
+common_voice_en_37341.wav,People walk along the street near a yellow building.,people walk along the street near a yellow building ,People walk along a street near a yellow building,22.22222222222222
+common_voice_en_37770.wav,Shelly is the one using newspapers.,shelly is the one using newspapers ,Shelly is the one using newspapers,16.666666666666664
+common_voice_en_37771.wav,a fence with a person walking by with an umbrella,a fence with a person walking by with an umbrella,A fence with a person walking by with an umbrella,10.0
+common_voice_en_37959.wav,The review of related methods is simple to understand and informative.,the review of related methods is simple to understand and informative ,The review of related methods is simple to understand and informative,9.090909090909092
+common_voice_en_37960.wav,You ought to stay over.,you ought to stay over ,You ought to stay over,20.0
+common_voice_en_3821.wav,Please play Below the Lion Rock by Stereo Mike.,please play below the lion rock by stereo mike ,Please play below the lion rock by stereo mike,11.11111111111111
+common_voice_en_38274.wav,Many telescopes were pointed at it.,many telescopes were pointed at it ,Many telescopes were pointed at it,16.666666666666664
+common_voice_en_38331.wav,The secret is here in the present.,the secret is here in the present ,The secret is here in the present,14.285714285714285
+common_voice_en_38332.wav,"After all, he had all his money.",after all he had all his money ,After all he had all his money,14.285714285714285
+common_voice_en_38358.wav,And there you were in bed.,and there you were in bed ,And there you were in bed,16.666666666666664
+common_voice_en_38499.wav,A man with white beard is writing in a book while two women look on.,a man with white beard is writing in a book while two women look on ,A man with a white beard is writing in a book while two women look on,12.5
+common_voice_en_38803.wav,Air was either entering or escaping at the rim with a thin sizzling sound.,air was either entering or escaping at the rim with a thin sizzling sound ,Air was either entering or escaping at the rim with a thin sizzling sound,7.142857142857142
+common_voice_en_39068.wav,The idea is to show both edges straight.,the idea is to show both edges straight ,The idea is to sew both edges straight,25.0
+common_voice_en_39128.wav,This is a very interesting situation.,this is a very interesting situation ,This is a very interesting situation,16.666666666666664
+common_voice_en_39175.wav,Why do you want to see me?,why do you want to see me ,Why did you want to see me the boy asked,50.0
+common_voice_en_39274.wav,"Anyways, so am I, he said.",anyways so am i he said ,In a way so am I he said,50.0
+common_voice_en_39428.wav,Janet Roger died 3 month ago.,janet roger died 3 month ago ,Janet Roger died three months ago,66.66666666666666
+common_voice_en_39677.wav,He don't seem like a guy that would fall into line.,he don t seem like a guy that would fall into line ,He dont seem like a guy thatd fall into line,50.0
+common_voice_en_39803.wav,The decision was already made.,the decision was already made ,The decision was already made,20.0
+common_voice_en_39804.wav,Will it be hot in the current place 214 days from now?,will it be hot in the current place 214 days from now ,Will it be hot in the current place two hundred fourteen days from now,28.57142857142857
+common_voice_en_40744.wav,"We have run into each before, haven't we?",we have run into each before haven t we ,We have run into each before havent we,37.5
+common_voice_en_40745.wav,She looked in the mirror and was excited at what she saw.,she looked in the mirror and was excited at what she saw ,She looked in the mirror and was excited at what she saw,8.333333333333332
+common_voice_en_40776.wav,I'll be next door.,i ll be next door ,Ill be next door,50.0
+common_voice_en_41122.wav,But he had to move on.,but he had to move on ,But he had to move on,16.666666666666664
+common_voice_en_41123.wav,"Eventually, the merchant had to hire two more employees.",eventually the merchant had to hire two more employees ,Eventually the merchant had to hire two more employees,11.11111111111111
+common_voice_en_41276.wav,The boy was trying to understand the truth of what the old man had said.,the boy was trying to understand the truth of what the old man had said ,The boy was trying to understand the truth of what the old man had said,6.666666666666667
+common_voice_en_41430.wav,"""Go and speak to the tribal chieftains,"" said the camel driver.", go and speak to the tribal chieftains said the camel driver ,Go and speak to the tribal chieftains said the camel driver,9.090909090909092
+common_voice_en_41870.wav,"Everyone on Earth has a treasure that awaits him, his heart said.",everyone on earth has a treasure that awaits him his heart said ,Everyone on earth has a treasure that awaits him his heart said,8.333333333333332
+common_voice_en_41883.wav,Several people are hugging each other inside the bar.,several people are hugging each other inside the bar ,Several people are hugging each other inside a bar,22.22222222222222
+common_voice_en_41885.wav,Police wearing gas masks kneel before the crowd.,police wearing gas masks kneel before the crowd ,Police wearing gas masks kneel before the ground,25.0
+common_voice_en_42452.wav,"Hey, what do you say?",hey what do you say ,Hey what do you say,20.0
+common_voice_en_42504.wav,And huge hole had been made by the,and huge hole had been made by the,An huge hole had been made by the impact of the projectile,41.66666666666667
+common_voice_en_42699.wav,"Yeah, it's definitely worth checking out, especially if the pay is reasonable and the work is good for your career. There's absolutely no reason for you to announce it to the entire company.",yeah it s definitely worth checking out especially if the pay is reasonable and the work is good for your career there s absolutely no reason for you to announce it to the entire company ,Yeah its definitely worth checking out especially if the pay is reasonable and the work is good for your career There was absolutely no reason for her to announce it to the entire company,17.647058823529413
+common_voice_en_43169.wav,Love is blind.,love is blind ,Love is blind,33.33333333333333
+common_voice_en_43186.wav,I want my baby to look like you.,i want my baby to look like you ,I want my baby to look like you,12.5
+common_voice_en_43919.wav,Their faces were covered with the blue cloth and their eyes showed fear.,their faces were covered with the blue cloth and their eyes showed fear ,Their faces were covered with the blue cloths and their eyes showed fear,15.384615384615385
+common_voice_en_43946.wav,I'll be with you sometime.,i ll be with you sometime ,Come in again some time,120.0
+common_voice_en_45166.wav,"In general, people have difficulties estimating risks correctly.",in general people have difficulties estimating risks correctly ,In general people have difficulties estimating risks correctly,12.5
+common_voice_en_45301.wav,I can't think of any reason why she was killed.,i can t think of any reason why she was killed ,I cant think of any reason why she was killed,30.0
+common_voice_en_45302.wav,Do you think Steven would have let you keep it?,do you think steven would have let you keep it ,Do you think Steven would have let you keep it,20.0
+common_voice_en_45304.wav,Like eating or sleeping or like seeking love or finding a job.,like eating or sleeping or like seeking love or finding a job ,Like eating or sleeping or like seeking love or finding a job,8.333333333333332
+common_voice_en_45516.wav,It's not a battle of good against evil.,it s not a battle of good against evil ,Its not a battle of good against evil,25.0
+common_voice_en_45588.wav,"Trust in your heart, but never forget that you're in the desert.",trust in your heart but never forget that you re in the desert ,Trust in your heart but never forget that youre in the desert,25.0
+common_voice_en_46012.wav,I'm going out and find them.,i m going out and find them ,Im going out and find them,33.33333333333333
+common_voice_en_46210.wav,How do people celebrate good weather over there?,how do people celebrate good weather over there ,How do people celebrate good weather over there,12.5
+common_voice_en_46211.wav,"First he had studied Esperanto, then the world's religions, and now it was alchemy.",first he had studied esperanto then the world s religions and now it was alchemy ,First he had studied Esperanto then the worlds religions and now it was alchemy,28.57142857142857
+common_voice_en_47839.wav,They are just a pile of,they are just a pile of,Theyre just a pile of stones,50.0
+common_voice_en_48064.wav,I could have helped her.,i could have helped her ,I could have helped her,20.0
+common_voice_en_48073.wav,I will be back soon.,i will be back soon ,I will be back soon,20.0
+common_voice_en_48074.wav,I don't trust anybody.,i don t trust anybody ,I dont trust anybody,75.0
+common_voice_en_48408.wav,It knew of the boy's talk with the with the desert because winds know everything.,it knew of the boy s talk with the with the desert because winds know everything ,It knew of the boys talk with the desert because the winds know everything,42.857142857142854
+common_voice_en_48639.wav,Is this the year you can't hear on?,is this the year you can t hear on ,Is this the ear you cant hear on,50.0
+common_voice_en_48640.wav,You would lie about anything.,you would lie about anything ,Youd lie about anything,50.0
+common_voice_en_49360.wav,You point to a trail of ants leading into the house.,you point to a trail of ants leading into the house ,You point to a trail of ants leading into the house,9.090909090909092
+common_voice_en_49393.wav,The boy turned to the hand that wrote all.,the boy turned to the hand that wrote all ,The boy turned to the hand that wrote all,11.11111111111111
+common_voice_en_49398.wav,They place the symbols of pilgrimage on the doors of their houses.,they place the symbols of pilgrimage on the doors of their houses ,They placed the symbols of the pilgrimage on the doors of their houses,23.076923076923077
+common_voice_en_49515.wav,"My wife pointed out to me the brightness of the red, green, and yellow signal lights.",my wife pointed out to me the brightness of the red green and yellow signal lights ,My wife pointed out to me the brightness of the red green and yellow signal lights,6.25
+common_voice_en_49817.wav,We're an extension of the wartime Marines.,we re an extension of the wartime marines ,Were an extension of the wartime marines,28.57142857142857
+common_voice_en_49818.wav,You can't bribe me.,you can t bribe me ,You cant bribe me,75.0
+common_voice_en_49819.wav,"Those gypsies are really smart, he thought.",those gypsies are really smart he thought ,Those Gypsies are really smart he thought,28.57142857142857
+common_voice_en_49828.wav,The man fell into an animated discussion.,the man fell into an animated discussion ,The men fell into an animated discussion,28.57142857142857
+common_voice_en_49864.wav,The alchemist probably already knew all that.,the alchemist probably already knew all that ,The alchemist probably already knew all that,14.285714285714285
+common_voice_en_49865.wav,A child with a helmet on his head rides a bike.,a child with a helmet on his head rides a bike ,A child with a helmet on his head rides a bike,9.090909090909092
+common_voice_en_49870.wav,It always gets me right here.,it always gets me right here ,It always gets me right here,16.666666666666664
+common_voice_en_49871.wav,What's she saying now?,what s she saying now ,Whats she saying now,50.0
+common_voice_en_49881.wav,Only when he himself reveals it.,only when he himself reveals it ,Only when he himself reveals it,16.666666666666664
+common_voice_en_49882.wav,The boy watched as his companion went to his horse and withdrew a scimitar.,the boy watched as his companion went to his horse and withdrew a scimitar ,The boy watched as his companion went to his horse and withdrew a scimitar,7.142857142857142
+common_voice_en_52180.wav,I turned and as I did so this screw must have fallen out.,i turned and as i did so this screw must have fallen out ,I turned and as I did so the screw must have fallen out,23.076923076923077
+common_voice_en_52564.wav,until my wing went bad,until my wing went bad,Until my wing went bad,20.0
+common_voice_en_52565.wav,I've got a weakness.,i ve got a weakness ,Ive got a weakness,50.0
+common_voice_en_52645.wav,How do I get in the future?,how do i get in the future ,How do I guess at the future,57.14285714285714
+common_voice_en_52647.wav,It seemed as if what the old king had called beginners luck were no longer functioning.,it seemed as if what the old king had called beginners luck were no longer functioning ,It seemed as if what the old king had called beginners luck were no longer functioning,6.25
+common_voice_en_52724.wav,A woman wearing a black shirt and shorts walks through a fountain.,a woman wearing a black shirt and shorts walks through a fountain ,A woman wearing a black shirt and shorts walks through a fountain,8.333333333333332
+common_voice_en_52725.wav,A boy in a black hoodie is sitting on a step that says Morse RBS.,a boy in a black hoodie is sitting on a step that says morse rbs ,A boy in a black hoodie is sitting on a step that says moose RVS,20.0
+common_voice_en_52989.wav,But don't you think he's just beautiful?,but don t you think he s just beautiful ,But dont you think hes just beautiful,71.42857142857143
+common_voice_en_52990.wav,Adding new features was building my future.,adding new features was building my future ,Adding new features was building my future,14.285714285714285
+common_voice_en_53235.wav,I shouldn't think so.,i shouldn t think so ,I shouldnt think so,75.0
+common_voice_en_53236.wav,We need to be confident all of us. He proposed a solution.,we need to be confident all of us he proposed a solution ,We need to be confident all of us He proposed a solution,16.666666666666664
+common_voice_en_53412.wav,A woman is soldering a piece of metal as a man watches.,a woman is soldering a piece of metal as a man watches ,A woman is soldering a piece of metal as a man watches,8.333333333333332
+common_voice_en_53454.wav,My wife gave me this on my last birthday.,my wife gave me this on my last birthday ,My wife gave me this on my last birthday,11.11111111111111
+common_voice_en_537.wav,This sapling will once become a giant oak tree.,this sapling will once become a giant oak tree ,This sapling will once become a giant oak tree,11.11111111111111
+common_voice_en_53883.wav,People use the restroom on the city's sewer street.,people use the restroom on the city s sewer street ,People using crosswalk on big city street,100.0
+common_voice_en_53884.wav,A woman in an ethnic dress is playing an instrument.,a woman in an ethnic dress is playing an instrument ,A woman in an ethnic dress is playing an instrument,10.0
+common_voice_en_53885.wav,You should have learned that thumbnails with women wearing plunging necklines are just clickbait.,you should have learned that thumbnails with women wearing plunging necklines are just clickbait ,You shouldve learned that thumbnails with women wearing plunging necklines are just click bait,35.714285714285715
+common_voice_en_54061.wav,"It was something that I thought could happen only to others, never to me.",it was something that i thought could happen only to others never to me ,It was something that I thought could happen only to others never to me,14.285714285714285
+common_voice_en_54140.wav,One day there began to tremble and the Nile overflowed its banks.,one day there began to tremble and the nile overflowed its banks ,One day the earth began to tremble and the Nile overflowed its banks,30.76923076923077
+common_voice_en_54286.wav,"At other times, a crucial moment, I make it easier for things to happen.",at other times a crucial moment i make it easier for things to happen ,At other times at a crucial moment I make it easier for things to happen,20.0
+common_voice_en_54378.wav,It's a miracle that nobody has found out about this yet.,it s a miracle that nobody has found out about this yet ,Its a miracle that nobody has found out about this yet,18.181818181818183
+common_voice_en_54379.wav,Glass will clink when struck by metal.,glass will clink when struck by metal ,Glass will clink when struck by metal,14.285714285714285
+common_voice_en_54380.wav,What movies are playing at the Warren Theatres?,what movies are playing at the warren theatres ,what movies are playing at Warren Theatres,42.857142857142854
+common_voice_en_54381.wav,A woman sells flowers and incense at the market.,a woman sells flowers and incense at the market ,A woman sells flowers and incense at the market,11.11111111111111
+common_voice_en_54383.wav,A man in a workout suit is reading to a woman.,a man in a workout suit is reading to a woman ,A man in a workout suit is reading to a woman,9.090909090909092
+common_voice_en_54384.wav,Everything on Earth and he vanished around the corner of,everything on earth and he vanished around the corner of,undefined,1000.0
+common_voice_en_54636.wav,A little boy wearing red and blue plaid is writing a letter.,a little boy wearing red and blue plaid is writing a letter ,A little boy wearing red and blue plaid is writing a letter,8.333333333333332
+common_voice_en_54638.wav,A girl wearing a white helmet is pouring water into glasses.,a girl wearing a white helmet is pouring water into glasses ,A girl wearing a white helmet is pouring water into glasses,9.090909090909092
+common_voice_en_54892.wav,Others stumbled upon the stone by accident.,others stumbled upon the stone by accident ,Others stumbled upon the stone by accident,14.285714285714285
+common_voice_en_55284.wav,"It's the name of the prophet's daughter, Fatima said.",it s the name of the prophet s daughter fatima said ,Its the name of the Prophets daughter Fatima said,55.55555555555556
+common_voice_en_55350.wav,"I was screwing the screw with the screwdriver, then I said screw it.",i was screwing the screw with the screwdriver then i said screw it ,I was screwing the screw with a screwdriver then I said Screw it,30.76923076923077
+common_voice_en_55351.wav,The cleat sank deeply into the soft turf.,the cleat sank deeply into the soft turf ,The cleat sank deeply into the soft turf,12.5
+common_voice_en_55356.wav,Get me a rewrite woman.,get me a rewrite woman ,Get me a rewrite woman,20.0
+common_voice_en_55357.wav,Many of whom are homeless and hungry.,many of whom are homeless and hungry ,Many of whom are homeless and hungry,14.285714285714285
+common_voice_en_55485.wav,"Like everybody learns, he said.",like everybody learns he said ,Like everybody learns he said,20.0
+common_voice_en_55866.wav,This is what I wished for.,this is what i wished for ,This is what I wished for,33.33333333333333
+common_voice_en_56182.wav,The Burger Band's girl at home.,the burger band s girl at home ,The porcupine scurried home,150.0
+common_voice_en_56389.wav,"They were just drawings, coded instructions and obscure text.",they were just drawings coded instructions and obscure text ,There were just drawings coded instructions and obscure texts,22.22222222222222
+common_voice_en_56391.wav,There was enough to buy a lot of weapons.,there was enough to buy a lot of weapons ,There was enough there to buy a lot of weapons,20.0
+common_voice_en_56973.wav,This young girl is wearing a red and black checkered shirt.,this young girl is wearing a red and black checkered shirt ,This young girl is wearing a red and black checkered shirt,9.090909090909092
+common_voice_en_56974.wav,A girl in a green bathing suit jumps off a building into a lake.,a girl in a green bathing suit jumps off a building into a lake ,A girl in a green bathing suit jumps off a building into a lake,7.142857142857142
+common_voice_en_57.wav,I can learn something from the desert too.,i can learn something from the desert too ,I can learn something from the desert too,12.5
+common_voice_en_57331.wav,ERROR_TRANSCRIPTION,error transcription,The Englishman was unable to sleep one night,100.0
+common_voice_en_57396.wav,Where is No Sleep Till Shanghai showing in 3 hours from now?,where is no sleep till shanghai showing in 3 hours from now ,where is No Sleep til Shanghai showing in three hours from now,41.66666666666667
+common_voice_en_57493.wav,The router overheated and needed to be restarted.,the router overheated and needed to be restarted ,The router overheated and needed to be restarted,12.5
+common_voice_en_57495.wav,The letter of the fire truck was not long enough.,the letter of the fire truck was not long enough ,The ladder of the fire truck was not long enough,20.0
+common_voice_en_57546.wav,Scattered groups of people were hurrying from the direction of the fighting.,scattered groups of people were hurrying from the direction of the fighting ,Scattered groups of people were hurrying from the direction of Woking,27.27272727272727
+common_voice_en_57895.wav,How do I feel?,how do i feel ,How do I feel,50.0
+common_voice_en_57903.wav,"To read more about my story, check out my first post, Adventures in Hand, Free Coding.",to read more about my story check out my first post adventures in hand free coding ,To read more about my story check out my first post Adventures in HandsFree Coding,33.33333333333333
+common_voice_en_57904.wav,But I haven't been able to do it.,but i haven t been able to do it ,But I havent been able to do it,50.0
+common_voice_en_58976.wav,There's life here. The boy said to the alchemist. There's life here. The boy said to the alchemist.,there s life here the boy said to the alchemist there s life here the boy said to the alchemist ,Theres life here the boy said to the alchemist,133.33333333333331
+common_voice_en_58978.wav,"This is why alchemy exists, the boy said. This is why alchemy exists, the boy said.",this is why alchemy exists the boy said this is why alchemy exists the boy said ,This is why alchemy exists the boy said,112.5
+common_voice_en_59313.wav,This woman is riding a beautiful and well groomed horse.,this woman is riding a beautiful and well groomed horse ,This woman is riding a beautiful and well groomed horse,10.0
+common_voice_en_59507.wav,The richest man in town.,the richest man in town ,The richest man in town,20.0
+common_voice_en_59746.wav,He remembered the sword.,he remembered the sword ,He remembered the sword,25.0
+common_voice_en_59751.wav,,,I guess you must think Im kinda batty,
+common_voice_en_60090.wav,I never saw Amanda act like that before.,i never saw amanda act like that before ,I never saw Amanda act like that before,25.0
+common_voice_en_60091.wav,And now in the month of their convention.,and now in the month of their convention ,And now an Amanda Derek Convention,116.66666666666667
+common_voice_en_60095.wav,Replace the T's in Tim Tebow's name with any other consonant to get a Star Wars character.,replace the t s in tim tebow s name with any other consonant to get a star wars character ,Replace the Ts in Tim Tebows name with any other consonant to get a Star Wars character,47.05882352941176
+common_voice_en_60360.wav,We rejoiced at the Citadel.,we rejoiced at the citadel ,We rejoiced at the citadel,20.0
+common_voice_en_60526.wav,The proportions were all wrong.,the proportions were all wrong ,The proportions were all wrong,20.0
+common_voice_en_60528.wav,I said for sore eyes.,i said for sore eyes ,A sight for sore eyes,40.0
+common_voice_en_60648.wav,It doesn't have to rhyme.,it doesn t have to rhyme ,It doesnt have to rhyme,60.0
+common_voice_en_60649.wav,About an hour ago.,about an hour ago ,About an hour ago,25.0
+common_voice_en_60682.wav,A white and black dog is jumping in the air trying to catch a tennis ball.,a white and black dog is jumping in the air trying to catch a tennis ball ,A white and black dog is jumping in the air trying to catch a tennis ball,6.25
+common_voice_en_60683.wav,Man in white shirt is staying in the city street.,man in white shirt is staying in the city street ,Man in white shirt standing in a city street,44.44444444444444
+common_voice_en_60729.wav,Do you read me?,do you read me ,Do you read me,25.0
+common_voice_en_60730.wav,Pedro hugged his teddy as hard as he could.,pedro hugged his teddy as hard as he could ,Pedro hugged his teddy as hard as he could,11.11111111111111
+common_voice_en_60860.wav,to the launch pad approach,to the launch pad approach,Do male kangaroos have a pouch,100.0
+common_voice_en_60861.wav,,,There are no words to describe how difficult that day was,
+common_voice_en_62381.wav,But I was also stumbling because I couldn't look away from this thing.,but i was also stumbling because i couldn t look away from this thing ,But I was also stumbling because I couldnt look away from these things,53.84615384615385
+common_voice_en_62406.wav,A group of children running.,a group of children running ,A group of children running,20.0
+common_voice_en_62407.wav,"Well, the enemy's after to offer too much is to continue.",well the enemy s after to offer too much is to continue ,Well begun is half done To offer too much is to court denial,61.53846153846154
+common_voice_en_62618.wav,Give me the list of film at Santiago's Theater.,give me the list of film at santiago s theater ,Give me the list of films at Santikos Theatres,55.55555555555556
+common_voice_en_62620.wav,Let's meet tomorrow.,let s meet tomorrow ,Lets meet tomorrow,66.66666666666666
+common_voice_en_62955.wav,Just think like that.,just think like that ,Just things like that,50.0
+common_voice_en_63691.wav,"During the epic, a majority of the city's buildings were erected.",during the epic a majority of the city s buildings were erected ,During the epoch a majority of the citys buildings were erected,36.36363636363637
+common_voice_en_63821.wav,I will give you a drink.,i will give you a drink ,Ill give it a drink,60.0
+common_voice_en_63822.wav,What do you want with this thing?,what do you want with this thing ,You do what you want with this thing,25.0
+common_voice_en_63838.wav,The autonomous ship floated closer to receiving its flying cargo.,the autonomous ship floated closer to receiving its flying cargo ,The autonomous ship floated closer to receiving its flying cargo,10.0
+common_voice_en_63839.wav,Are you sure you're comfortable?,are you sure you re comfortable ,Are you sure youre comfortable,60.0
+common_voice_en_64022.wav,One dog wades in the water while another dog is on the land.,one dog wades in the water while another dog is on the land ,One dog wades in the water while another dog is on land,16.666666666666664
+common_voice_en_64090.wav,mother's on extension,mother s on extension,Mothers on the extension,75.0
+common_voice_en_64641.wav,And the names of the people involved were very difficult to pronounce.,and the names of the people involved were very difficult to pronounce ,And the names of the people involved were very difficult to pronounce,8.333333333333332
+common_voice_en_64647.wav,The black dog in front of the tree has a green toy in its mouth.,the black dog in front of the tree has a green toy in its mouth ,The black dog in front of the tree has a green toy in its mouth,6.666666666666667
+common_voice_en_64648.wav,A boy is quite asleep at the bottom of the river.,a boy is quite asleep at the bottom of the river ,A boy in white asleep at the bottom of the river,27.27272727272727
+common_voice_en_64691.wav,a man working with wood while sitting on the ground,a man working with wood while sitting on the ground,A man working with wood while sitting on the ground,10.0
+common_voice_en_64692.wav,A group of people stand in a loose line on a brick ground.,a group of people stand in a loose line on a brick ground ,A group of people stand in a loose line on a brick ground,7.6923076923076925
+common_voice_en_64810.wav,My shampoo is made from coconut and sweet almond.,my shampoo is made from coconut and sweet almond ,My shampoo is made from coconut and sweet almond,11.11111111111111
+common_voice_en_64812.wav,Please search song.,please search song ,Please search the song Poomadhathe Pennu,66.66666666666666
+common_voice_en_64836.wav,I want to see the movie scheduled for North American cinemas.,i want to see the movie scheduled for north american cinemas ,I want to see the movie schedule for North American Cinemas,45.45454545454545
+common_voice_en_64837.wav,I don't know you from Adam.,i don t know you from adam ,I dont know you from Adam,66.66666666666666
+common_voice_en_65094.wav,A young Asian boy running with a white and gray dog on the green grass.,a young asian boy running with a white and gray dog on the green grass ,A young Asian boy running with a white and gray dog on green grass,21.428571428571427
+common_voice_en_65448.wav,Brushing her hand sent an unexpected spark of electricity through him.,brushing her hand sent an unexpected spark of electricity through him ,Brushing her hand sent an unexpected spark of electricity through him,9.090909090909092
+common_voice_en_65555.wav,One can imagine these two covered with sand running up the little street in the bright sunlight.,one can imagine these two covered with sand running up the little street in the bright sunlight ,One can imagine these two covered with sand running up the little street in the bright sunlight,5.88235294117647
+common_voice_en_65593.wav,Two girls are barefoot and splashing in the water.,two girls are barefoot and splashing in the water ,Two girls are barefoot and splashing in the water,11.11111111111111
+common_voice_en_65595.wav,A scary dressed man walks down an empty street.,a scary dressed man walks down an empty street ,A scary dressed man roams down an empty street,22.22222222222222
+common_voice_en_65681.wav,"He thought that with some patience, he would be able to transform everything into gold.",he thought that with some patience he would be able to transform everything into gold ,He thought that with some patience hed be able to transform everything into gold,21.428571428571427
+common_voice_en_66713.wav,So you are going to play that one?,so you are going to play that one ,Theyre going to believe that one,66.66666666666666
+common_voice_en_67613.wav,"Please, I want to speak to him.",please i want to speak to him ,Hes allergic to him,125.0
+common_voice_en_67617.wav,The whole of the ball of mine and dance,the whole of the ball of mine and dance,They opened the bottle of wine and drank heavily,77.77777777777779
+common_voice_en_67640.wav,Two black wet dogs running on grass.,two black wet dogs running on grass ,Two black wet dogs running on grass,14.285714285714285
+common_voice_en_67642.wav,A boy in a T-shirt and shorts is holding a snowball and facing a snowy mountain.,a boy in a t shirt and shorts is holding a snowball and facing a snowy mountain ,A boy in a tshirt and shorts is holding a snowball and facing a snowy mountain,18.75
+common_voice_en_67647.wav,"Before guns were invented, armies had to throw bullets at each other and if a bullet touched you, you had to sit out until the next war.",before guns were invented armies had to throw bullets at each other and if a bullet touched you you had to sit out until the next war ,Before guns were invented armies had to throw bullets at each other and if a bullet touched you you had to sit out until the next war,3.7037037037037033
+common_voice_en_67655.wav,We have also started contemplating the possibility of moving back to Colorado.,we have also started contemplating the possibility of moving back to colorado ,We have also started contemplating the possibility of moving back to Colorado,16.666666666666664
+common_voice_en_67661.wav,The boy's heart began to speak of fear.,the boy s heart began to speak of fear ,The boys heart began to speak of fear,37.5
+common_voice_en_67662.wav,Because you know it's dreams and wishes and will know how to deal with them.,because you know it s dreams and wishes and will know how to deal with them ,Because youll know its dreams and wishes and will know how to deal with them,26.666666666666668
+common_voice_en_67966.wav,She crouched down to lace her shoes and spotted the four-leaf clover.,she crouched down to lace her shoes and spotted the four leaf clover ,She crouched down to lace her shoes and spotted a four leaf clover,15.384615384615385
+common_voice_en_68084.wav,Tank tops are a godsend on hot summer days.,tank tops are a godsend on hot summer days ,Tank tops are a godsend on hot summer days,11.11111111111111
+common_voice_en_68211.wav,Two people walking with cages.,two people walking with cages ,Two people walking with cages,20.0
+common_voice_en_68213.wav,A dog jumps over a hurdle at a competition.,a dog jumps over a hurdle at a competition ,A dog jumps over a hurdle at a competition,11.11111111111111
+common_voice_en_68216.wav,You can stand just so much.,you can stand just so much ,You can stand just so much,16.666666666666664
+common_voice_en_68218.wav,Your behavior is embarrassing. Go learn the art of social intercourse.,your behavior is embarrassing go learn the art of social intercourse ,Your behavior is embarrassing go learn the art of social intercourse,9.090909090909092
+common_voice_en_68514.wav,I get a $30 a week.,i get a 30 a week ,I get thirty dollars a week,50.0
+common_voice_en_68523.wav,A band plays concert for excited fans.,a band plays concert for excited fans ,A band plays a concert for excited fans,25.0
+common_voice_en_68556.wav,It was starlight and I explained the sign of zodiac to her.,it was starlight and i explained the sign of zodiac to her ,It was starlight and I explained the Signs of the Zodiac to her,38.46153846153847
+common_voice_en_68557.wav,just by looking at them,just by looking at them,Just by looking at them,20.0
+common_voice_en_68893.wav,I feel a little tipsy.,i feel a little tipsy ,Im feeling a little tipsy,40.0
+common_voice_en_68894.wav,But much of the challenge of writing code is editing code you or someone else has already written.,but much of the challenge of writing code is editing code you or someone else has already written ,But much of the challenge of writing code is editing code you or someone else has already written,5.555555555555555
+common_voice_en_69150.wav,And I will be the policeman.,and i will be the policeman ,And I will be the policeman,33.33333333333333
+common_voice_en_69779.wav,Take the match and strike it against your shoe.,take the match and strike it against your shoe ,Take the match and strike it against your shoe,11.11111111111111
+common_voice_en_69781.wav,"Not only did he manage to do it, he did it professionally.",not only did he manage to do it he did it professionally ,Not only did he manage to do it he did it professionally,8.333333333333332
+common_voice_en_69820.wav,What do you want to know?,what do you want to know ,What do you want to know,16.666666666666664
+common_voice_en_70723.wav,Must have been a kid.,must have been a kid ,Must have been a kid,20.0
+common_voice_en_71187.wav,An oriental woman is holding a microphone.,an oriental woman is holding a microphone ,An oriental woman is holding a microphone,14.285714285714285
+common_voice_en_71190.wav,Mostly just the hearts of those who are trying to realize their destinies.,mostly just the hearts of those who are trying to realize their destinies ,Mostly just the hearts of those who are trying to realize their destinies,7.6923076923076925
+common_voice_en_71226.wav,Never mind those guys.,never mind those guys ,Never mind those guys,25.0
+common_voice_en_71351.wav,What do you know about this?,what do you know about this ,What do you know about this,16.666666666666664
+common_voice_en_71353.wav,But then I realized she couldn't have been.,but then i realized she couldn t have been ,But then I realized she couldnt have been,50.0
+common_voice_en_71411.wav,The young girl on the scooter is getting her picture taken by the photographer.,the young girl on the scooter is getting her picture taken by the photographer ,The young girl on the scooter is getting her picture taken by the photographer,7.142857142857142
+common_voice_en_71413.wav,small blond-haired girl drinking a glass of juice,small blond haired girl drinking a glass of juice,Small blondhaired girl drinking a glass of juice,37.5
+common_voice_en_71421.wav,Have a hectic day.,have a hectic day ,Have a hectic day,25.0
+common_voice_en_71422.wav,He used the lathe to make brass objects.,he used the lathe to make brass objects ,He used the lathe to make brass objects,12.5
+common_voice_en_71541.wav,"Why would a king be talking with a shepherd? The boy asked, awed and embarrassed.",why would a king be talking with a shepherd the boy asked awed and embarrassed ,Why would a king be talking with a shepherd the boy asked awed and embarrassed,6.666666666666667
+common_voice_en_71544.wav,These sausages are extremely tasty.,these sausages are extremely tasty ,These sausages are extremely tasty,20.0
+common_voice_en_71646.wav,This was the strangest of all the things that ever came to Earth from outer space.,this was the strangest of all the things that ever came to earth from outer space ,This was the strangest of all things that ever came to earth from outer space,13.333333333333334
+common_voice_en_71766.wav,Come on in the office here.,come on in the office here ,Come on in the office here,16.666666666666664
+common_voice_en_71778.wav,Tend the sheep while the dog wanders.,tend the sheep while the dog wanders ,Tend the sheep while the dog wanders,14.285714285714285
+common_voice_en_71780.wav,Find me animated movies at Amco Entertainment tomorrow.,find me animated movies at amco entertainment tomorrow ,Find me animated movies at Amco Entertainment tomorrow,37.5
+common_voice_en_71783.wav,The men were smoking their hookahs and trading stories from the battlefield.,the men were smoking their hookahs and trading stories from the battlefield ,The men were smoking their hookahs and trading stories from the battlefield,8.333333333333332
+common_voice_en_72433.wav,The marsh will freeze when cold enough.,the marsh will freeze when cold enough ,The marsh will freeze when cold enough,14.285714285714285
+common_voice_en_72434.wav,And you can meet us at the station.,and you can meet us at the station ,And you can meet us at the station,12.5
+common_voice_en_72575.wav,Can't you understand that?,can t you understand that ,Cant you understand that,50.0
+common_voice_en_72806.wav,Don't want to rush you.,don t want to rush you ,I dont want to rush you,33.33333333333333
+common_voice_en_72807.wav,The elevators are still running.,the elevators are still running ,The elevators are still running,20.0
+common_voice_en_72810.wav,"Now leave us alone, said the boy to the young Arab.",now leave us alone said the boy to the young arab ,Now leave us alone said the boy to the young Arab,18.181818181818183
+common_voice_en_72815.wav,The animals were exhausted and the men talked among themselves less and less.,the animals were exhausted and the men talked among themselves less and less ,The animals were exhausted and the men talked among themselves less and less,7.6923076923076925
+common_voice_en_72818.wav,What could I do?,what could i do ,What could I do,50.0
+common_voice_en_72819.wav,What will I tell him?,what will i tell him ,Whatll I tell him,75.0
+common_voice_en_72994.wav,One is loved because one is loved.,one is loved because one is loved ,One is loved because one is loved,14.285714285714285
+common_voice_en_74202.wav,And so do you.,and so do you ,And so do you,25.0
+common_voice_en_74203.wav,He placed the DVD into the player.,he placed the dvd into the player ,He placed the DVD into the player,28.57142857142857
+common_voice_en_74204.wav,Perhaps she met somebody.,perhaps she met somebody ,Perhaps she met somebody,25.0
+common_voice_en_74285.wav,He began to dig at the base of the sycamore.,he began to dig at the base of the sycamore ,He began to dig at the base of the sycamore,10.0
+common_voice_en_74287.wav,"""Sit down, let me treat you to something,"" said the boy.", sit down let me treat you to something said the boy ,Sit down and let me treat you to something said the boy,16.666666666666664
+common_voice_en_74288.wav,He was just in good.,he was just in good ,He was just and good,40.0
+common_voice_en_74289.wav,"I had never heard of alchemist before, the boy said.",i had never heard of alchemist before the boy said ,I had never heard of alchemists before the boy said,20.0
+common_voice_en_75000.wav,You can have as many babies as you like.,you can have as many babies as you like ,You can have as many babies as you like,11.11111111111111
+common_voice_en_75022.wav,to stuff into their own pockets,to stuff into their own pockets,To stuff into their own pockets,16.666666666666664
+common_voice_en_75081.wav,Her height helped her with her fighting.,her height helped her with her fighting ,Her height helped her with her fighting,14.285714285714285
+common_voice_en_75082.wav,What did you do with her?,what did you do with her ,What did you do with her,16.666666666666664
+common_voice_en_75150.wav,I wanted them to be a part of your inheritance.,i wanted them to be a part of your inheritance ,I wanted them to be a part of your inheritance,10.0
+common_voice_en_75152.wav,I locked eyes with a fish in the tank.,i locked eyes with a fish in the tank ,I locked eyes with a fish in the tank,11.11111111111111
+common_voice_en_75412.wav,"Another dreamer, said the ticket seller to his assistant, watching the boy walk away.",another dreamer said the ticket seller to his assistant watching the boy walk away ,Another dreamer said the ticket seller to his assistant watching the boy walk away,7.142857142857142
+common_voice_en_75567.wav,The immense collection of people and animals began to travel faster.,the immense collection of people and animals began to travel faster ,The immense collection of people and animals began to travel faster,9.090909090909092
+common_voice_en_75568.wav,"""That's never happened to me."" the boy said.", that s never happened to me the boy said ,Thats never happened to me the boy said,25.0
+common_voice_en_75746.wav,"I don't understand what you are talking about, the desert said.",i don t understand what you are talking about the desert said ,I dont understand what youre talking about the desert said,50.0
+common_voice_en_75748.wav,Henderson was taking it in.,henderson was taking it in ,Henderson was taking it in,20.0
+common_voice_en_75780.wav,What is a deer?,what is a deer ,What is it dear,75.0
+common_voice_en_75842.wav,What am I going to do?,what am i going to do ,What am I going to do,33.33333333333333
+common_voice_en_75844.wav,I have to admit that my horizon has expanded exponentially.,i have to admit that my horizon has expanded exponentially ,I have to admit that my horizon has expanded exponentially,10.0
+common_voice_en_75899.wav,It almost retained its shape.,it almost retained its shape ,It almost retained its shape,20.0
+common_voice_en_75901.wav,Of course you wouldn't know.,of course you wouldn t know ,Of course you wouldnt know,60.0
+common_voice_en_76270.wav,"Also, when I'm eating, that's all I think about.",also when i m eating that s all i think about ,When Im eating thats all I think about,87.5
+common_voice_en_76377.wav,I never noticed how tall Norwegian people are.,i never noticed how tall norwegian people are ,I never noticed how tall Norwegian people are,25.0
+common_voice_en_76378.wav,It was immediately apparent.,it was immediately apparent ,It was immediately apparent,25.0
+common_voice_en_76380.wav,She put the amplifier on mute until they calmed down.,she put the amplifier on mute until they calmed down ,She put the amplifier on mute until they calmed down,10.0
+common_voice_en_76381.wav,Don't do it for me.,don t do it for me ,Dont do it for me,40.0
+common_voice_en_76428.wav,based on the omens of the present,based on the omens of the present,Based on the omens of the present,14.285714285714285
+common_voice_en_76555.wav,I couldn't go through another day like this.,i couldn t go through another day like this ,I couldnt go through another day like this,37.5
+common_voice_en_76556.wav,The pods of peas from ancient beer fields.,the pods of peas from ancient beer fields ,The pods of peas ferment in bare fields,50.0
+common_voice_en_76593.wav,I'm in search of that universal language among other things.,i m in search of that universal language among other things ,I am in search of that universal language among other things,18.181818181818183
+common_voice_en_77697.wav,I'm never more aware of a random person when I'm trying to enjoy a snack that I have no intention of sharing.,i m never more aware of a random person when i m trying to enjoy a snack that i have no intention of sharing ,Im never more aware of a rooms acoustics than when Im trying to enjoy a snack I have no intention of sharing,40.909090909090914
+common_voice_en_77702.wav,He was thinking about omens and someone had appeared.,he was thinking about omens and someone had appeared ,He was thinking about omens and someone had appeared,11.11111111111111
+common_voice_en_78461.wav,He also tried to remember some good stories to relate as he sheared the sheep.,he also tried to remember some good stories to relate as he sheared the sheep ,He also tried to remember some good stories to relate as he sheared the sheep,6.666666666666667
+common_voice_en_78672.wav,"Throughout the entire day, we will be on the lookout for our enemies.",throughout the entire day we will be on the lookout for our enemies ,Throughout the entire day we will be on the lookout for our enemies,7.6923076923076925
+common_voice_en_78883.wav,This morning I found a tick on my knee.,this morning i found a tick on my knee ,This morning I found a calculator taped to my Wii,60.0
+common_voice_en_8046.wav,"I'm surprised, the boy said.",i m surprised the boy said ,Im surprised the boy said,40.0
+common_voice_en_8511.wav,One draws is the strength of cheerfulness.,one draws is the strength of cheerfulness ,Wondrous is the strength of cheerfulness,33.33333333333333
+common_voice_en_8566.wav,Mario went to the CD player and pressed shuffle.,mario went to the cd player and pressed shuffle ,Mario went to the CD player and pressed shuffle,22.22222222222222
+common_voice_en_8580.wav,It sort of makes a fellow lose face.,it sort of makes a fellow lose face ,It sort of makes a fellow lose faith in himself,40.0
+common_voice_en_8582.wav,"It's been slow yet, and I don't know why.",it s been slow yet and i don t know why ,It infuriates me and I dont know why,100.0
+common_voice_en_8636.wav,I don't believe in voodoo.,i don t believe in voodoo ,I dont believe in voodoo,60.0
+common_voice_en_8783.wav,The English one asked if they were in danger.,the english one asked if they were in danger ,The Englishman asked if they were in danger,37.5
+common_voice_en_9378.wav,The man had abandoned everything to go mining for emeralds.,the man had abandoned everything to go mining for emeralds ,The miner had abandoned everything to go mining for emeralds,20.0
+common_voice_en_9379.wav,"""He needs 3 days,"" answered the alchemist.", he needs 3 days answered the alchemist ,He needs three days answered the alchemist,28.57142857142857
+common_voice_en_9508.wav,three people eating in a cafeteria,three people eating in a cafeteria,Three people eating in a cafeteria,16.666666666666664
+common_voice_en_9509.wav,Carbon dioxide is causing global warming.,carbon dioxide is causing global warming ,Carbon dioxide is causing global warming,16.666666666666664
+common_voice_en_9510.wav,Then she again took his hands and studied them carefully.,then she again took his hands and studied them carefully ,Then she again took his hands and studied them carefully,10.0
+common_voice_en_9555.wav,There was a full moon and the boy told the Englishman the story of his life.,there was a full moon and the boy told the englishman the story of his life ,There was a full moon and the boy told the Englishman the story of his life,12.5
+common_voice_en_9721.wav,So I simply structure my list around my motivations and situations.,so i simply structure my list around my motivations and situations ,So I simply structure my list around my motivations and situations,18.181818181818183
+
+
+--- Statistics ---
+mean,median,min,max,pooled_wer
+30.782539414264456,20.0,0.0,1000.0,25.7295611494765
