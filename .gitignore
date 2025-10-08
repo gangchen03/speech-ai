@@ -172,3 +172,10 @@ env.sh
 
 # Compiled pipelines
 **/*pipeline.json
+
+
+# Ignore all files and subdirectories within the 'results' folder
+results/*
+
+# Keep the 'results' folder itself tracked by Git (by including a .gitkeep)
+!results/.gitkeep
