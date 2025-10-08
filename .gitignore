@@ -175,7 +175,7 @@ env.sh
 
 
 # Ignore all files and subdirectories within the 'results' folder
-results/*
+benchmark/results/*
 
 # Keep the 'results' folder itself tracked by Git (by including a .gitkeep)
-!results/.gitkeep
+!benchmark/results/.gitkeep

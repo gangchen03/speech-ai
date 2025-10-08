@@ -1,6 +1,6 @@
 # Speech-to-Text (STT) Evaluation Benchmark
 
-This tool provides a framework for evaluating the performance of Google Cloud's Speech-to-Text models, such as Chirp, against a custom benchmark dataset. It automates the process of transcribing audio files, comparing the results against a ground truth dataset, and calculating standard industry metrics like Character Error Rate (CER) or Word Error Rate (WER).
+This tool provides a framework for evaluating the performance of Google Cloud's Speech-to-Text models, such as Chirp3, against a custom benchmark dataset. It automates the process of transcribing audio files, comparing the results against a ground truth dataset, and calculating standard industry metrics like Character Error Rate (CER) or Word Error Rate (WER).
 
 ## Features
 
